@@ -1,4 +1,4 @@
 __pycache__/
 .venv/
-stock_prices.png
-stock_prices.csv
+/stock_prices.png
+/stock_prices.csv
